@@ -1,0 +1,17 @@
+[
+  {
+    "browserName": "Chrome",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "description": "A popular web browser."
+  },
+  {
+    "browserName": "Firefox",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/800px-Firefox_logo%2C_2019.svg.png",
+    "description": "An open-source web browser."
+  },
+  {
+    "browserName": "Edge",
+    "logoLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Microsoft_Edge_logo_%282019%29.png/600px-Microsoft_Edge_logo_%282019%29.png",
+    "description": "Microsoft's web browser."
+  }
+]
